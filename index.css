@@ -57,7 +57,7 @@ div{
 
 
 }
-#g,#s,#lw,#t,#cplus{
+#g,#s,#lw,#t,#cplus,#c{
 	background-size: cover;
 	color: white;
 }
@@ -71,7 +71,7 @@ div{
 	#cplus{
 		background-image: url('cpls.jpg');
 	}
-	
+#c{background-image: url('clang1.jpg');}
 	
 #t{	background-image: url('ts.jpg');
      
