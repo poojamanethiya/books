@@ -57,7 +57,7 @@ div{
 
 
 }
-#g,#s,#lw,#t{
+#g,#s,#lw,#t,#cplus{
 	background-size: cover;
 	color: white;
 }
@@ -68,6 +68,9 @@ div{
      
 
 }
+	#cplus{
+		background-image: url('https://i.ytimg.com/vi/I0uMZY6bLOM/hqdefault.jpg');
+	}
 	
 	
 #t{	background-image: url('ts.jpg');
